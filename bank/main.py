@@ -1,6 +1,8 @@
 
 # 项目入口
 # hello world
+# 项思醒是女海王
+
 from view import View
 from bank import Bank
 
