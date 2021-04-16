@@ -2,6 +2,7 @@
 # 项目入口
 # hello world
 # 项思醒是女海王
+# 项思醒有抑郁症
 
 from view import View
 from bank import Bank
